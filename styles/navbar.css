@@ -1,0 +1,10 @@
+#navbar{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid blueviolet;
+}
+#option{
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
